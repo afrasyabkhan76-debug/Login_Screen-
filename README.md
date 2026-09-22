@@ -91,9 +91,6 @@
 
 <img width="1362" height="728" alt="Login Screen" src="https://github.com/user-attachments/assets/8e5c392b-7b4a-4d85-96ec-0406646958e9" />
 
-### Dashboard
-
-* Add dashboard screenshot here.
 
 ## 🚀 How to Run
 
